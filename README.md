@@ -1,6 +1,6 @@
 <h1>Simple Tasks and Time Manager</h1>
 
-<h3>A new, minimalist, simple and fashion way of managing your time and set up your own timetable</h3>
+<h3>A new, minimalist, simple and fashion way of managing your time and setting up your own timetable</h3>
 
 <h6>It will be easy, fast, and unpainfull, just give it a chance</h6>
 
