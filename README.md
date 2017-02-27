@@ -54,7 +54,7 @@ I won't make you lose your time. Instead, I want you to save it. So, let's expla
     For example: 
       <ul>
         <li>00:00-23:59 => A task for all the day.</li>
-        <li>16:00-17:00 => Have a "buena siesta".</li>
+        <li>16:00-17:00 => Deep and conscious meditation.</li>
         <li>14:00-15:00 => Watch the Simpsons.</li>
       </ul>
   </li>
